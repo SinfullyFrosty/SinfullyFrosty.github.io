@@ -1,0 +1,68 @@
+{
+    "Classes": [
+        {
+            "id": 1,
+            "Title": "Beginner Guide",
+            "Price": 15,
+            "ForSale": true,
+            "RequiresSchedual": false,
+            "Description": "An introduction into game development and how to start structuring your first game"
+        },
+        {
+            "id": 2,
+            "Title": "Intermediate Guide",
+            "Price": 25,
+            "ForSale": true,
+            "RequiresSchedual": false,
+            "Description": "An intermediate guide that dives more into actual game functionality and more advanced concepts"
+        },
+        {
+            "id": 3,
+            "Title": "Intro to Game Development",
+            "Price": 15,
+            "ForSale": true,
+            "RequiresSchedual": false,
+            "Description": "An introduction into designing a game and how clients and servers interact with each other"
+        },
+        {
+            "id": 4,
+            "Title": "1-1",
+            "Price": 50,
+            "ForSale": false,
+            "RequiresSchedual": true,
+            "Description": "Schedule a 2-hour long 1-on-1 with me to ask any questions you have"
+        },
+        {
+            "id": 5,
+            "Title": "Group Questions",
+            "Price": 5,
+            "ForSale": false,
+            "RequiresSchedual": false,
+            "Description": "Get into a group call with other people to ask any questions you have."
+        },
+        {
+            "id": 6,
+            "Title": "Game Monetization Guide",
+            "Price": 25,
+            "ForSale": true,
+            "RequiresSchedual": false,
+            "Description": "Learn how to propery monetize your game and drive sales"         
+        },
+        {
+            "id": 7,
+            "Title": "After Launch Support Guide",
+            "Price": 35,
+            "ForSale": true,
+            "RequiresSchedual": false,
+            "Description": "An in-depth guide showing you how to plan for post-release support as well as maintaining player count"      
+        },
+        {
+            "id": 7,
+            "Title": "Start To Finish Game Dev",
+            "Price": 150,
+            "ForSale": true,
+            "RequiresSchedual": false,
+            "Description": "Every game cycle, we choose a new game topic to program from start to finish. This is not an introduction guide and will go in depth with advanced concepts and ideas"         
+        }
+    ]
+}
