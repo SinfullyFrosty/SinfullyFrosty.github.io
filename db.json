@@ -7,7 +7,7 @@
             "ForSale": true,
             "RequiresSchedule": false,
             "Description": "An introduction into game development and how to start structuring your first game",
-            "Features": ["Test", "Test", "Test"]
+            "Features": ["Core scripting basics", "Game structure fundamentals", "Build your first system"]
         },
         {
             "id": 2,
@@ -16,7 +16,7 @@
             "ForSale": true,
             "RequiresSchedule": false,
             "Description": "An intermediate guide that dives more into actual game functionality and more advanced concepts",
-            "Features": ["Test", "Test", "Test"]
+            "Features": ["Advanced scripting patterns", "Multiplayer logic handling", "System optimization tips"]
         },
         {
             "id": 3,
@@ -25,7 +25,7 @@
             "ForSale": true,
             "RequiresSchedule": false,
             "Description": "An introduction into designing a game and how clients and servers interact with each other",
-            "Features": ["Test", "Test", "Test"]
+            "Features": ["Game design foundations", "Client-server concepts", "Clean project structure"]
         },
         {
             "id": 4,
@@ -34,7 +34,7 @@
             "ForSale": false,
             "RequiresSchedule": true,
             "Description": "Schedule a 2-hour long 1-on-1 with me to ask any questions you have",
-            "Features": ["Test", "Test", "Test"]
+            "Features": ["2-hour private session", "Live problem solving", "Direct code feedback"]
         },
         {
             "id": 5,
@@ -43,7 +43,7 @@
             "ForSale": false,
             "RequiresSchedule": false,
             "Description": "Get into a group call with other people to ask any questions you have.",
-            "Features": ["Test", "Test", "Test"]
+            "Features": ["Live group Q&A", "Real dev discussions", "Practical walkthroughs"]
         },
         {
             "id": 6,
@@ -52,7 +52,7 @@
             "ForSale": true,
             "RequiresSchedule": false,
             "Description": "Learn how to properly monetize your game and drive sales",
-            "Features": ["Test", "Test", "Test"]
+            "Features": ["Revenue strategies", "Player retention systems", "Smart pricing models"]
         },
         {
             "id": 7,
@@ -61,7 +61,7 @@
             "ForSale": true,
             "RequiresSchedule": false,
             "Description": "An in-depth guide showing you how to plan for post-release support as well as maintaining player count",
-            "Features": ["Test", "Test", "Test"]
+            "Features": ["Post-launch planning", "Update strategy guide", "Player retention tactics"]
         },
         {
             "id": 8,
@@ -70,7 +70,7 @@
             "ForSale": true,
             "RequiresSchedule": false,
             "Description": "Every game cycle, we choose a new game topic to program from start to finish. This is not an introduction guide and will go in depth with advanced concepts and ideas",
-            "Features": ["Test", "Test", "Test"]
+            "Features": ["Full game build cycle", "Real production workflow", "Advanced dev systems"]
         }
     ]
 }
