@@ -6,7 +6,8 @@
             "Price": 15,
             "ForSale": true,
             "RequiresSchedual": false,
-            "Description": "An introduction into game development and how to start structuring your first game"
+            "Description": "An introduction into game development and how to start structuring your first game",
+            "Features": {"Test", "Test", "Test"}
         },
         {
             "id": 2,
@@ -14,7 +15,8 @@
             "Price": 25,
             "ForSale": true,
             "RequiresSchedual": false,
-            "Description": "An intermediate guide that dives more into actual game functionality and more advanced concepts"
+            "Description": "An intermediate guide that dives more into actual game functionality and more advanced concepts",
+            "Features": {"Test", "Test", "Test"}
         },
         {
             "id": 3,
@@ -22,7 +24,8 @@
             "Price": 15,
             "ForSale": true,
             "RequiresSchedual": false,
-            "Description": "An introduction into designing a game and how clients and servers interact with each other"
+            "Description": "An introduction into designing a game and how clients and servers interact with each other",
+            "Features": {"Test", "Test", "Test"}
         },
         {
             "id": 4,
@@ -30,7 +33,8 @@
             "Price": 50,
             "ForSale": false,
             "RequiresSchedual": true,
-            "Description": "Schedule a 2-hour long 1-on-1 with me to ask any questions you have"
+            "Description": "Schedule a 2-hour long 1-on-1 with me to ask any questions you have",
+            "Features": {"Test", "Test", "Test"}
         },
         {
             "id": 5,
@@ -38,7 +42,8 @@
             "Price": 5,
             "ForSale": false,
             "RequiresSchedual": false,
-            "Description": "Get into a group call with other people to ask any questions you have."
+            "Description": "Get into a group call with other people to ask any questions you have.",
+            "Features": {"Test", "Test", "Test"}
         },
         {
             "id": 6,
@@ -46,7 +51,8 @@
             "Price": 25,
             "ForSale": true,
             "RequiresSchedual": false,
-            "Description": "Learn how to propery monetize your game and drive sales"         
+            "Description": "Learn how to propery monetize your game and drive sales",
+            "Features": {"Test", "Test", "Test"}
         },
         {
             "id": 7,
@@ -54,15 +60,17 @@
             "Price": 35,
             "ForSale": true,
             "RequiresSchedual": false,
-            "Description": "An in-depth guide showing you how to plan for post-release support as well as maintaining player count"      
+            "Description": "An in-depth guide showing you how to plan for post-release support as well as maintaining player count",
+            "Features": {"Test", "Test", "Test"}
         },
         {
-            "id": 7,
+            "id": 8,
             "Title": "Start To Finish Game Dev",
             "Price": 150,
             "ForSale": true,
             "RequiresSchedual": false,
-            "Description": "Every game cycle, we choose a new game topic to program from start to finish. This is not an introduction guide and will go in depth with advanced concepts and ideas"         
+            "Description": "Every game cycle, we choose a new game topic to program from start to finish. This is not an introduction guide and will go in depth with advanced concepts and ideas",
+            "Features": {"Test", "Test", "Test"}
         }
     ]
 }
